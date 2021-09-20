@@ -1,5 +1,5 @@
 {
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
-    "java.dependency.packagePresentation": "hierarchical"
+    "java.dependency.packagePresentation": "flat"
 }
