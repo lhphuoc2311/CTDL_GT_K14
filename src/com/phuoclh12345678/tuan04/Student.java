@@ -9,9 +9,9 @@ public class Student {
     String name;
     int age;
 
-    Student (){};
+   public Student (){};
 
-    Student(String n, int a){
+    public Student(String n, int a){
         name = n;
         age = a;
     }

@@ -6,11 +6,11 @@ package com.phuoclh12345678.tuan04;
 
 public class Dog {
 
-    String name;
+    public String name;
 
-    int size;
+    public int size;
 
-    String color;
+    public String color;
 
     public Dog(){}
 
