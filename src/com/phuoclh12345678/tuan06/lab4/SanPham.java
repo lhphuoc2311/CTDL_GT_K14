@@ -16,7 +16,7 @@ public class SanPham {
     // in thông tin
     //hàm
 
-    SanPham(){
+    public SanPham(){
 
     }
    
@@ -43,6 +43,19 @@ public class SanPham {
         System.out.print(" Giảm giá: " + giamGia);
         System.out.println(" Thuế nhập khẩu: " + thueNhapKhau);
         
+    }
+
+    public boolean equals (SanPham other){
+        boolean match = true;
+
+        if((tenShanPham.equals(other.tenShanPham)) && 
+        donGia == other.donGia){
+            match =  true;
+        }else match = false;
+
+
+        return match;
+
     }
     
 }

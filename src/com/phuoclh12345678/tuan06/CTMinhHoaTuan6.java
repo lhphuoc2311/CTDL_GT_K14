@@ -21,6 +21,8 @@ public class CTMinhHoaTuan6 {
 
         System.out.println("số 1: " + so1.number);
         System.out.println("số 2: " + so2.number);
+
+       // Integer numInteger;
         
 
     }

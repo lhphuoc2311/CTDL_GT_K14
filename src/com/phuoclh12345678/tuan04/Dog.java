@@ -24,6 +24,8 @@ public class Dog {
         name = n;
     }
 
+    
+
     void inThongTin(){
         System.out.println("Size = " + size + " " + "color = " + color + " name = " + name);
     }
