@@ -54,6 +54,10 @@ public class QueueDemoProgram {
             //thêm 1 phần tử vào cuối
             //lây 1 phần cuối
             //xoáy 1 phần tử ở cuối
+
+            LinkedList linkedList;
+
+            
         
     }
     
