@@ -4,10 +4,14 @@
 */
 package vn.edu.giadinh.kiemtragiuaky;
 
+import java.util.Date;
+
 public class Apple {
     int id;
     String corlor;
     double weight;
+
+    Date inputDay;// SimpeFormat
 
     public Apple(){}
 
